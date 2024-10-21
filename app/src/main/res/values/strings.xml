@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+
+    <string name="message_error">ERRO!</string>
+    <string name="message_empty_value">Por favor, informe os valores dos campos.</string>
+    <string name="message_format_value">Formato inválido. Digite novamente.</string>
+    <string name="message_height_zero">Valor da altura não pode ser zero.</string>
+
+    <string name="label_weight">Digite o seu peso (Kg):</string>
+    <string name="label_height">Digite a sua altura (m):</string>
+    <string name="label_situation">Situação:</string>
+    <string name="label_situation_veryunderweight">MUITO abaixo do peso</string>
+    <string name="label_situation_underweight">Abaixo do peso</string>
+    <string name="label_situation_normalweight">Peso normal - PARABÉNS!</string>
+    <string name="label_situation_overweight">Acima do peso</string>
+    <string name="label_situation_obesity1weight">Obesidade 1</string>
+    <string name="label_situation_obesity2weight">Obesidade 2 (severa)</string>
+    <string name="label_situation_obesity3weight">Obesidade 3 (mórbida)</string>
+
+    <string name="placeholder">0.00</string>
+
+    <string name="action_info">Informações</string>
+    <string name="action_about">Sobre</string>
+    <string name="action_about_message_version">Versão:</string>
+    <string name="action_about_message_developedby">Desenvolvido por:</string>
+    <string name="action_about_message_author">Antônio Augusto Duarte</string>
+    <string name="action_exit">Sair</string>
+    <string name="action_exit_message">Tem certeza de que quer sair da aplicação?</string>
+
+    <string name="button_calculateBMI">Calcular IMC</string>
+    <string name="button_clear">Limpar</string>
+    <string name="button_ok_message">OK</string>
+    <string name="button_yes_message">Sim</string>
+    <string name="button_no_message">Não</string>
+
+</resources>
